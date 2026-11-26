@@ -1,0 +1,521 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 12 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 5837
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.780392 .823529 .870588 RG
+n 45.35433 36.85039 m 549.9213 36.85039 l S
+BT /F1 7 Tf 8.4 TL ET
+.407843 .47451 .541176 rg
+BT 1 0 0 1 45.35433 25.51181 Tm (Kelompok C - Instrumentasi | Monitoring Level Tangki) Tj T* ET
+BT 1 0 0 1 516.0763 25.51181 Tm (Halaman 1) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 756.5197 cm
+Q
+q
+1 0 0 1 51.35433 706.5197 cm
+q
+BT 1 0 0 1 0 30 Tm 116.8435 0 Td 25 TL /F2 20 Tf .090196 .211765 .364706 rg (DOKUMENTASI PROGRAM) Tj  T* -11.68004 0 Td (MONITORING LEVEL TANGKI) Tj T* -105.1635 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 684.5197 cm
+q
+.321569 .396078 .47451 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL 135.2285 0 Td (Kelompok C - Instrumentasi | Dokumentasi Teknis) Tj T* -135.2285 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 667.5118 cm
+Q
+q
+1 0 0 1 51.35433 641.5118 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (1. Tujuan Program) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 595.5118 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 30 Tm /F1 9 Tf 13 TL (Program mengolah pembacaan level fluida tangki dalam persentase 0\226100%. Setiap pembacaan diklasifikasikan menjadi) Tj T* (LOW, NORMAL, atau HIGH agar kondisi tangki mudah dipantau. Program juga menampilkan statistik seluruh data dan) Tj T* (ringkasan khusus 15 data inti.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 569.5118 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (2. Aturan Klasifikasi) Tj T* ET
+Q
+Q
+q
+1 0 0 1 93.54331 466.5118 cm
+q
+.090196 .211765 .364706 rg
+n 0 96 408.189 -24 re f*
+1 1 1 rg
+n 0 72 408.189 -24 re f*
+.94902 .964706 .980392 rg
+n 0 48 408.189 -24 re f*
+1 1 1 rg
+n 0 24 408.189 -24 re f*
+1 1 1 rg
+BT /F2 8 Tf 12 TL ET
+BT 1 0 0 1 6 82 Tm (Kondisi) Tj T* ET
+BT 1 0 0 1 210.0945 82 Tm (Status) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+BT 1 0 0 1 6 58 Tm (Level < 30%) Tj T* ET
+BT 1 0 0 1 210.0945 58 Tm (LOW) Tj T* ET
+BT 1 0 0 1 6 34 Tm (30% ) Tj /F3 8 Tf 12 TL (\243) Tj /F1 8 Tf 12 TL ( Level ) Tj /F3 8 Tf 12 TL (\243) Tj /F1 8 Tf 12 TL ( 80%) Tj T* ET
+BT 1 0 0 1 210.0945 34 Tm (NORMAL) Tj T* ET
+BT 1 0 0 1 6 10 Tm (Level > 80%) Tj T* ET
+BT 1 0 0 1 210.0945 10 Tm (HIGH) Tj T* ET
+q
+1 J
+1 j
+.721569 .772549 .819608 RG
+.45 w
+n 0 96 m 408.189 96 l S
+n 0 0 m 408.189 0 l S
+n 0 0 m 0 96 l S
+n 408.189 0 m 408.189 96 l S
+n 0 72 m 408.189 72 l S
+n 0 48 m 408.189 48 l S
+n 0 24 m 408.189 24 l S
+n 204.0945 0 m 204.0945 96 l S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 458.5118 cm
+Q
+q
+1 0 0 1 51.35433 432.5118 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (3. Data yang Digunakan) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 412.5118 cm
+q
+BT 1 0 0 1 0 4 Tm 13 TL /F2 9 Tf 0 0 0 rg (Data inti \(15\):) Tj /F1 9 Tf ( 18, 25, 33, 41, 55, 62, 76, 84, 91, 47, 29, 38, 70, 82, 15.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 380.5118 cm
+q
+BT 1 0 0 1 0 17 Tm 13 TL /F2 9 Tf 0 0 0 rg (Data tambahan \(5\):) Tj /F1 9 Tf ( 30, 80, 29.9, 80.1, 100. Total data adalah 20 nilai. Data tambahan dipilih untuk menguji batas) Tj T* (klasifikasi dan nilai maksimum.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 354.5118 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (4. Fungsi dalam main.py) Tj T* ET
+Q
+Q
+q
+1 0 0 1 93.54331 179.5118 cm
+q
+.090196 .211765 .364706 rg
+n 0 168 408.189 -24 re f*
+1 1 1 rg
+n 0 144 408.189 -24 re f*
+.94902 .964706 .980392 rg
+n 0 120 408.189 -24 re f*
+1 1 1 rg
+n 0 96 408.189 -24 re f*
+.94902 .964706 .980392 rg
+n 0 72 408.189 -24 re f*
+1 1 1 rg
+n 0 48 408.189 -24 re f*
+.94902 .964706 .980392 rg
+n 0 24 408.189 -24 re f*
+1 1 1 rg
+BT /F2 7.5 Tf 12 TL ET
+BT 1 0 0 1 6 154.5 Tm (Fungsi) Tj T* ET
+BT 1 0 0 1 147.7323 154.5 Tm (Deskripsi) Tj T* ET
+0 0 0 rg
+BT /F1 7.5 Tf 12 TL ET
+BT 1 0 0 1 6 130.5 Tm (validasi_level\(level\)) Tj T* ET
+BT 1 0 0 1 147.7323 130.5 Tm (Memastikan input numerik dan berada pada rentang 0\226100%.) Tj T* ET
+BT 1 0 0 1 6 106.5 Tm (status_level\(level\)) Tj T* ET
+BT 1 0 0 1 147.7323 106.5 Tm (Mengembalikan status LOW, NORMAL, atau HIGH.) Tj T* ET
+BT 1 0 0 1 6 82.5 Tm (hitung_kategori\(data\)) Tj T* ET
+BT 1 0 0 1 147.7323 82.5 Tm (Menghitung jumlah nilai pada tiap kategori.) Tj T* ET
+BT 1 0 0 1 6 58.5 Tm (rata_rata\(data\)) Tj T* ET
+BT 1 0 0 1 147.7323 58.5 Tm (Menghitung rata-rata; data kosong menghasilkan 0.0.) Tj T* ET
+BT 1 0 0 1 6 34.5 Tm (ringkasan\(data\)) Tj T* ET
+BT 1 0 0 1 147.7323 34.5 Tm (Menghasilkan total, kategori, rata-rata, minimum, dan maksimum.) Tj T* ET
+BT 1 0 0 1 6 10.5 Tm (main\(\)) Tj T* ET
+BT 1 0 0 1 147.7323 10.5 Tm (Memvalidasi jumlah data, mencetak tabel, dan menampilkan ringkasan.) Tj T* ET
+q
+1 J
+1 j
+.721569 .772549 .819608 RG
+.45 w
+n 0 168 m 408.189 168 l S
+n 0 0 m 408.189 0 l S
+n 0 0 m 0 168 l S
+n 408.189 0 m 408.189 168 l S
+n 0 144 m 408.189 144 l S
+n 0 120 m 408.189 120 l S
+n 0 96 m 408.189 96 l S
+n 0 72 m 408.189 72 l S
+n 0 48 m 408.189 48 l S
+n 0 24 m 408.189 24 l S
+n 141.7323 0 m 141.7323 168 l S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 153.5118 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (5. Validasi Input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 120.5118 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 17 Tm /F1 9 Tf 13 TL (Nilai harus berupa int atau float \(boolean tidak diterima\) dan berada di antara 0 sampai 100. Nilai di luar rentang) Tj T* (menghasilkan ValueError, sedangkan tipe data yang tidak sesuai menghasilkan TypeError.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 94.51181 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (6. Cara Menjalankan) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 72.31181 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 9 Tm /F4 6.2 Tf 7.6 TL (python3 main.py) Tj T* (python3 -m unittest -v test_main.py) Tj T* ET
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8.5 Tf
+10.2 TL
+ET
+0.117647 0.227451 0.372549 rg
+BT
+1 0 0 1 45.35 813.8898 Tm
+(Nama\072 Freisca Ekkatara Bintang Fearamon  \174  NIM\072 03041382631162) Tj
+T*
+ET
+0.796078 0.835294 0.882353 RG
+0.5 w
+n
+45.35 808.8898 m
+549.9256 808.8898 l
+S
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Symbol
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/Contents 13 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 14 0 R
+/F2 8 0 R
+/F2-0 15 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Length 2423
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.780392 .823529 .870588 RG
+n 45.35433 36.85039 m 549.9213 36.85039 l S
+BT /F1 7 Tf 8.4 TL ET
+.407843 .47451 .541176 rg
+BT 1 0 0 1 45.35433 25.51181 Tm (Kelompok C - Instrumentasi | Monitoring Level Tangki) Tj T* ET
+BT 1 0 0 1 516.0763 25.51181 Tm (Halaman 2) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 775.3701 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (7. Hasil Statistik yang Diharapkan) Tj T* ET
+Q
+Q
+q
+1 0 0 1 93.54331 648.3701 cm
+q
+.090196 .211765 .364706 rg
+n 0 120 408.189 -24 re f*
+1 1 1 rg
+n 0 96 408.189 -24 re f*
+.94902 .964706 .980392 rg
+n 0 72 408.189 -24 re f*
+1 1 1 rg
+n 0 48 408.189 -24 re f*
+.94902 .964706 .980392 rg
+n 0 24 408.189 -24 re f*
+1 1 1 rg
+BT /F2 8 Tf 12 TL ET
+BT 1 0 0 1 6 106 Tm (Indikator) Tj T* ET
+BT 1 0 0 1 176.0787 106 Tm (20 data) Tj T* ET
+BT 1 0 0 1 300.8031 106 Tm (15 data inti) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+BT 1 0 0 1 6 82 Tm (Kategori LOW/NORMAL/HIGH) Tj T* ET
+BT 1 0 0 1 176.0787 82 Tm (5 / 10 / 5) Tj T* ET
+BT 1 0 0 1 300.8031 82 Tm (4 / 8 / 3) Tj T* ET
+BT 1 0 0 1 6 58 Tm (Rata-rata) Tj T* ET
+BT 1 0 0 1 176.0787 58 Tm (54.30%) Tj T* ET
+BT 1 0 0 1 300.8031 58 Tm (51.07%) Tj T* ET
+BT 1 0 0 1 6 34 Tm (Minimum) Tj T* ET
+BT 1 0 0 1 176.0787 34 Tm (15%) Tj T* ET
+BT 1 0 0 1 300.8031 34 Tm (15%) Tj T* ET
+BT 1 0 0 1 6 10 Tm (Maksimum) Tj T* ET
+BT 1 0 0 1 176.0787 10 Tm (100%) Tj T* ET
+BT 1 0 0 1 300.8031 10 Tm (91%) Tj T* ET
+q
+1 J
+1 j
+.721569 .772549 .819608 RG
+.45 w
+n 0 120 m 408.189 120 l S
+n 0 0 m 408.189 0 l S
+n 0 0 m 0 120 l S
+n 408.189 0 m 408.189 120 l S
+n 0 96 m 408.189 96 l S
+n 0 72 m 408.189 72 l S
+n 0 48 m 408.189 48 l S
+n 0 24 m 408.189 24 l S
+n 170.0787 0 m 170.0787 120 l S
+n 294.8031 0 m 294.8031 120 l S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 619.3701 cm
+q
+.717647 .788235 .854902 RG
+.5 w
+.933333 .956863 .980392 rg
+n -7 -7 506.5669 38 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F1 8.5 Tf 12 TL (Dokumentasi ini menjelaskan implementasi yang tersedia pada main.py. Untuk pelaporan, lampirkan juga flowchart dan hasil) Tj T* (pengujian yang dijalankan pada komputer.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8.5 Tf
+10.2 TL
+ET
+0.117647 0.227451 0.372549 rg
+BT
+1 0 0 1 45.35 813.8898 Tm
+(Nama\072 Freisca Ekkatara Bintang Fearamon  \174  NIM\072 03041382631162) Tj
+T*
+ET
+0.796078 0.835294 0.882353 RG
+0.5 w
+n
+45.35 808.8898 m
+549.9256 808.8898 l
+S
+Q
+
+
+endstream
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000446 00000 n 
+0000006335 00000 n 
+0000006442 00000 n 
+0000006549 00000 n 
+0000006661 00000 n 
+0000006773 00000 n 
+0000006851 00000 n 
+0000006957 00000 n 
+0000007238 00000 n 
+0000009714 00000 n 
+0000009822 00000 n 
+trailer
+<<
+/Size 16
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+9935
+%%EOF

@@ -1,0 +1,395 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 11 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 6660
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.780392 .823529 .870588 RG
+n 45.35433 36.85039 m 549.9213 36.85039 l S
+BT /F1 7 Tf 8.4 TL ET
+.407843 .47451 .541176 rg
+BT 1 0 0 1 45.35433 25.51181 Tm (Kelompok C - Instrumentasi | Monitoring Level Tangki) Tj T* ET
+BT 1 0 0 1 516.0763 25.51181 Tm (Halaman 1) Tj T* ET
+Q
+q
+1 0 0 1 51.35433 779.1969 cm
+Q
+q
+1 0 0 1 51.35433 754.1969 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 5 Tm /F2 20 Tf 25 TL 80.72346 0 Td (LAPORAN PENGUJIAN PROGRAM) Tj T* -80.72346 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 732.1969 cm
+q
+.321569 .396078 .47451 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL 127.4435 0 Td (Monitoring Level Tangki | Kelompok C - Instrumentasi) Tj T* -127.4435 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 706.1969 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (1. Tujuan Pengujian) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 673.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 17 Tm /F1 9 Tf 13 TL -0.091756 Tw (Pengujian dilakukan untuk memastikan klasifikasi level, validasi input, perhitungan kategori, rata-rata, minimum, maksimum,) Tj T* 0 Tw (dan jumlah data berjalan sesuai requirement program.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 647.1969 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (2. Metode Pengujian) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 614.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 17 Tm /F1 9 Tf 13 TL (Pengujian menggunakan unit test Python melalui modul unittest. Pengujian batas mencakup nilai di bawah, tepat pada, dan) Tj T* (di atas batas 30% dan 80%. Pengujian juga mencakup data kosong dan input tidak valid.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 588.1969 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (3. Daftar Test Case) Tj T* ET
+Q
+Q
+q
+1 0 0 1 93.54331 125.1969 cm
+q
+.090196 .211765 .364706 rg
+n 0 456 408.189 -24 re f*
+1 1 1 rg
+n 0 432 408.189 -24 re f*
+.94902 .964706 .980392 rg
+n 0 408 408.189 -24 re f*
+1 1 1 rg
+n 0 384 408.189 -24 re f*
+.94902 .964706 .980392 rg
+n 0 360 408.189 -24 re f*
+1 1 1 rg
+n 0 336 408.189 -24 re f*
+.94902 .964706 .980392 rg
+n 0 312 408.189 -24 re f*
+1 1 1 rg
+n 0 288 408.189 -24 re f*
+.94902 .964706 .980392 rg
+n 0 264 408.189 -24 re f*
+1 1 1 rg
+n 0 240 408.189 -24 re f*
+.94902 .964706 .980392 rg
+n 0 216 408.189 -24 re f*
+1 1 1 rg
+n 0 192 408.189 -24 re f*
+.94902 .964706 .980392 rg
+n 0 168 408.189 -24 re f*
+1 1 1 rg
+n 0 144 408.189 -24 re f*
+.94902 .964706 .980392 rg
+n 0 120 408.189 -24 re f*
+1 1 1 rg
+n 0 96 408.189 -24 re f*
+.94902 .964706 .980392 rg
+n 0 72 408.189 -24 re f*
+1 1 1 rg
+n 0 48 408.189 -24 re f*
+.94902 .964706 .980392 rg
+n 0 24 408.189 -24 re f*
+1 1 1 rg
+BT /F2 7.2 Tf 12 TL ET
+BT 1 0 0 1 6 442.8 Tm (ID) Tj T* ET
+BT 1 0 0 1 42.85039 442.8 Tm (Input / Kondisi) Tj T* ET
+BT 1 0 0 1 246.9449 442.8 Tm (Expected Output) Tj T* ET
+0 0 0 rg
+BT /F1 7.2 Tf 12 TL ET
+BT 1 0 0 1 6 418.8 Tm (TC01) Tj T* ET
+BT 1 0 0 1 42.85039 418.8 Tm (15) Tj T* ET
+BT 1 0 0 1 246.9449 418.8 Tm (LOW) Tj T* ET
+BT 1 0 0 1 6 394.8 Tm (TC02) Tj T* ET
+BT 1 0 0 1 42.85039 394.8 Tm (29.9) Tj T* ET
+BT 1 0 0 1 246.9449 394.8 Tm (LOW) Tj T* ET
+BT 1 0 0 1 6 370.8 Tm (TC03) Tj T* ET
+BT 1 0 0 1 42.85039 370.8 Tm (30) Tj T* ET
+BT 1 0 0 1 246.9449 370.8 Tm (NORMAL) Tj T* ET
+BT 1 0 0 1 6 346.8 Tm (TC04) Tj T* ET
+BT 1 0 0 1 42.85039 346.8 Tm (31) Tj T* ET
+BT 1 0 0 1 246.9449 346.8 Tm (NORMAL) Tj T* ET
+BT 1 0 0 1 6 322.8 Tm (TC05) Tj T* ET
+BT 1 0 0 1 42.85039 322.8 Tm (55) Tj T* ET
+BT 1 0 0 1 246.9449 322.8 Tm (NORMAL) Tj T* ET
+BT 1 0 0 1 6 298.8 Tm (TC06) Tj T* ET
+BT 1 0 0 1 42.85039 298.8 Tm (79) Tj T* ET
+BT 1 0 0 1 246.9449 298.8 Tm (NORMAL) Tj T* ET
+BT 1 0 0 1 6 274.8 Tm (TC07) Tj T* ET
+BT 1 0 0 1 42.85039 274.8 Tm (80) Tj T* ET
+BT 1 0 0 1 246.9449 274.8 Tm (NORMAL) Tj T* ET
+BT 1 0 0 1 6 250.8 Tm (TC08) Tj T* ET
+BT 1 0 0 1 42.85039 250.8 Tm (80.1) Tj T* ET
+BT 1 0 0 1 246.9449 250.8 Tm (HIGH) Tj T* ET
+BT 1 0 0 1 6 226.8 Tm (TC09) Tj T* ET
+BT 1 0 0 1 42.85039 226.8 Tm (100) Tj T* ET
+BT 1 0 0 1 246.9449 226.8 Tm (HIGH) Tj T* ET
+BT 1 0 0 1 6 202.8 Tm (TC10) Tj T* ET
+BT 1 0 0 1 42.85039 202.8 Tm (Jumlah data inti/tambahan/total) Tj T* ET
+BT 1 0 0 1 246.9449 202.8 Tm (15 / 5 / 20) Tj T* ET
+BT 1 0 0 1 6 178.8 Tm (TC11) Tj T* ET
+BT 1 0 0 1 42.85039 178.8 Tm (Kategori seluruh data) Tj T* ET
+BT 1 0 0 1 246.9449 178.8 Tm (LOW 5, NORMAL 10, HIGH 5) Tj T* ET
+BT 1 0 0 1 6 154.8 Tm (TC12) Tj T* ET
+BT 1 0 0 1 42.85039 154.8 Tm (Kategori data inti) Tj T* ET
+BT 1 0 0 1 246.9449 154.8 Tm (LOW 4, NORMAL 8, HIGH 3) Tj T* ET
+BT 1 0 0 1 6 130.8 Tm (TC13) Tj T* ET
+BT 1 0 0 1 42.85039 130.8 Tm (Rata-rata seluruh data) Tj T* ET
+BT 1 0 0 1 246.9449 130.8 Tm (54.30%) Tj T* ET
+BT 1 0 0 1 6 106.8 Tm (TC14) Tj T* ET
+BT 1 0 0 1 42.85039 106.8 Tm (Rata-rata data inti) Tj T* ET
+BT 1 0 0 1 246.9449 106.8 Tm (51.07%) Tj T* ET
+BT 1 0 0 1 6 82.8 Tm (TC15) Tj T* ET
+BT 1 0 0 1 42.85039 82.8 Tm (Minimum/maksimum) Tj T* ET
+BT 1 0 0 1 246.9449 82.8 Tm (Seluruh: 15/100; inti: 15/91) Tj T* ET
+BT 1 0 0 1 6 58.8 Tm (TC16) Tj T* ET
+BT 1 0 0 1 42.85039 58.8 Tm (Data kosong) Tj T* ET
+BT 1 0 0 1 246.9449 58.8 Tm (0.0) Tj T* ET
+BT 1 0 0 1 6 34.8 Tm (TC17) Tj T* ET
+BT 1 0 0 1 42.85039 34.8 Tm (Nilai -1 dan 101) Tj T* ET
+BT 1 0 0 1 246.9449 34.8 Tm (ValueError) Tj T* ET
+BT 1 0 0 1 6 10.8 Tm (TC18) Tj T* ET
+BT 1 0 0 1 42.85039 10.8 Tm (Input string '30') Tj T* ET
+BT 1 0 0 1 246.9449 10.8 Tm (TypeError) Tj T* ET
+q
+1 J
+1 j
+.721569 .772549 .819608 RG
+.45 w
+n 0 456 m 408.189 456 l S
+n 0 0 m 408.189 0 l S
+n 0 0 m 0 456 l S
+n 408.189 0 m 408.189 456 l S
+n 0 432 m 408.189 432 l S
+n 0 408 m 408.189 408 l S
+n 0 384 m 408.189 384 l S
+n 0 360 m 408.189 360 l S
+n 0 336 m 408.189 336 l S
+n 0 312 m 408.189 312 l S
+n 0 288 m 408.189 288 l S
+n 0 264 m 408.189 264 l S
+n 0 240 m 408.189 240 l S
+n 0 216 m 408.189 216 l S
+n 0 192 m 408.189 192 l S
+n 0 168 m 408.189 168 l S
+n 0 144 m 408.189 144 l S
+n 0 120 m 408.189 120 l S
+n 0 96 m 408.189 96 l S
+n 0 72 m 408.189 72 l S
+n 0 48 m 408.189 48 l S
+n 0 24 m 408.189 24 l S
+n 36.85039 0 m 36.85039 456 l S
+n 240.9449 0 m 240.9449 456 l S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 117.1969 cm
+Q
+q
+1 0 0 1 51.35433 91.19685 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (4. Hasil Eksekusi Aktual) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 71.19685 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 9 Tf 13 TL (Perintah: python3 -m unittest -v test_main.py) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 57.59685 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.4 Tm /F3 6.2 Tf 7.6 TL (Spreadsheet runtime warmup failed during python startup) Tj T* ET
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.090196 0.211765 0.364706 rg
+BT
+/F2-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 153.8178 723.5 Tm
+(Nama\072 Freisca Ekkatara Bintang Fearamon  \174  NIM\072 03041382631162) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 13 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1357
+>>
+stream
+GauHJgMYb*&:O:S$jm,.MM0RZP/haph'-,]c+7fo"BqO:7_GZF'lS[%p`7M;,:E08$NtT]9-?69%aT*K'1.5!iUC&EJ9Nf:IL%*U@((S>+UQ@V_:<AmD*me;Ls$&p&]JH`i\M+nU4D"U-OQ$$`+]k)&8.e0E?.S@PEM/-3#WJ"f458NHiM(14\:7<87E]5StmNk1^V&^"1.Xc__&nL8<f8o%#Y[/&l,Wud'D+P]S?miW2qegABIcmi?.hn/+0e'C'gNb!u!A`C>&/6R,,[HX[aH.:W&+oH1oJ^+&l'.'gs:A0;upTeWs2Na!Au`&9XM5g_dKH7T/DOF$gD-"N0g/%H07*]`o*,5mLps4XZY!j`G*Jc/uBNiU0Z[lbK_C2[2,S!X,q!md0M,dj`';/f;6h3na<^q'*DRmH:YpbMT2H352&nX.7b8HAF0t;NNHa+.m`+eLP70CMIBk42Y`A=,a]4oZD0q.]k2dd&-8&p\i>s#d,"4ff=!T7i8o`eM3.UhIDcdl$lV-AN[h=i%`GT$V"E?=LA]dD1<:S1akj.)FN,D#Sg?6`?eg(5+*]qbYUFl;m%)r35MIi2b_j9WAlB5E1f)_H&7j;_J&%;Ob`2dWF8[d2NC:nCrE9"!`dc$j4/`kEfTY+Hufc\g(%oENh@EGg>*6\YDglk'!;B/,n..pfMK0gqpoi+/79LHCZU?(G"o)m@(##uOWB<hel?dK26^hoW`fhQ&rRm`O^U^WY/h%/SuUhJ/<U*iG@s/H!T!/gh"O^n's;ZN8Co)E"$ReMLG]efULRHA2#J5CAYM-^s5O&GgB0Eu.kZ1*/mIXKNeDXpG/1`[]/7PahlT-$msti&i15_IFhKlbl+YOQc\(tM=8D4(hI6]Mi6eZ&Y(-X@@.sXc?iTbm%eAFENI=Mt#%<o#M1!L/!f=6/&"`M:!Gnt(#eQh)2_'PT3[Jai0Ml%.OP((AbPn)3[7B22,gndoPK4=taT7k^hd0`4L##Z=q<!R1Yb$q3p)bDgRMD6?DON:*WSeups(RRW1s8LI$`k06md5OOW9ljR_fe@__U;jWdBK8!%R<+8m0gBWB4ci`(=;Ptm"JDsP79.^#Q("f$Iga<"O*6I.!?3WpjcmmV&T2i#A3$!XW/CN(2-'BXP8GS8XED$QV[3?=b7D.+26[8DsubA.lp2pL^].K\f"iJML(l&T6h[CLkO$?m9>CaPCZ,.Srb1kPXM8p*=t#VPd29^N!CN`,@*gi-!4\*0`;sIpAUF%X`N,$fePS./:u.`H:M'3neco&.tlqHiD<Ot<5YtsHh*I?\(P,*(fPUSh'eg'eds;n0WKs"oIX*@elpYuW#BMYO4leP4&#VWd-eb)~>
+endstream
+endobj
+13 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+/F3 10 0 R
+>>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000435 00000 n 
+0000007147 00000 n 
+0000007254 00000 n 
+0000007361 00000 n 
+0000007473 00000 n 
+0000007585 00000 n 
+0000007691 00000 n 
+0000007893 00000 n 
+0000009343 00000 n 
+trailer
+<<
+/Size 14
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+9396
+%%EOF
